@@ -1,4 +1,3 @@
-//variables js:
 const h1 = document.querySelector('.js-h1');
 const select = document.querySelector('.js-select');
 const button = document.querySelector('.js-button');
